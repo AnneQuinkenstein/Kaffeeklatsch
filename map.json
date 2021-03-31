@@ -193,6 +193,12 @@
          "id":15,
          "name":"Jitsi verteilt",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"verteilt"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":56,
